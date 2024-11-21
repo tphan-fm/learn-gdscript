@@ -8,7 +8,7 @@ This app is the free part of a larger paid course to become a game developer: [L
 
 The series is compatible with Godot 4.
 
-## How to run the app
+## How to run the apps
 
 You can run the app online here: https://gdquest.github.io/learn-gdscript/
 
